@@ -1,6 +1,3 @@
-É recomendado para executar os testes ou a aplicação para extrair todos os scripts e funções para uma única pasta.
+It is recommended to extract all scripts and functions to a single directory if you want to run the application or the tests.
 
-Exemplo pequeno de base de dados pode ser encontrado em 
-https://mega.nz/#F!voBRiaSY!w9-i9f5r4YwS3VGov40dsA
-
-Qualquer música de formato mp3 pode ser utilizada.
+Any mp3 song can be used.
